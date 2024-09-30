@@ -1,0 +1,122 @@
+[
+  {
+      "nome": "Vega",
+      "constellation": "Lyra",
+      "right_ascension": "18h 36m 56.19s",
+      "declination": "+38° 46′ 58.8″",
+      "apparent_magnitude": "0.03",
+      "absolute_magnitude": "0.58",
+      "distance_light_years": "25 anos-luz",
+      "spectral_class": "A0Vvar"
+  },
+  {
+    "nome": "Betelgeuse",
+    "constellation": "Orion",
+    "right_ascension": " 05h 55m 10.305s",
+    "declination": "+07° 24′ 25.4″",
+    "apparent_magnitude": "0.50 ",
+    "absolute_magnitude": "-5.14",
+    "distance_light_years": "640 anos-luz",
+    "spectral_class": "M1-M2"
+},
+{
+  "nome": "Arcturus",
+  "constellation": "Bootes",
+  "right_ascension": "14h 15m 39.7s",
+  "declination": "+19° 10′ 57″",
+  "apparent_magnitude": "-0.05",
+  "absolute_magnitude": "-0.70",
+  "distance_light_yearsz": "36.7 anos-luz",
+  "spectral_class": "K1.5III"
+},
+{
+  "nome": "J005311",
+  "constellation": "Cassiopeia",
+  "right_ascension": "00h 53m 11.5s",
+  "declination": " +29° 55' 29",
+  "apparent_magnitude": "12.8",
+  "absolute_magnitude": "Não disponível diretamente para essa estrela em muitos catálogos.",
+  "distance_light_years": "10 mil anos-luz",
+  "spectral_class": "classe espectral não divulgada"
+},
+{
+  "nome": "Sirius",
+  "constellation": "Canis Major",
+  "right_ascension": "06h 45m 08.9s",
+  "declination": "-16° 42' 58''",
+  "apparent_magnitude": "-1.46",
+  "absolute_magnitude": "1.42",
+  "distance_light_yearsz": "8.6 anos-luz",
+  "spectral_class": "A1V"
+},
+{
+  "nome": "Altair",
+  "constellation": "Aquila",
+  "right_ascension": "19h 50m 47.0s",
+  "declination": "+08° 52' 06",
+  "apparent_magnitude": " 0.76",
+  "absolute_magnitude": "16.7 anos-luz",
+  "distance_light_years": "2.21",
+  "spectral_class": "A7V"
+},
+{
+  "nome": "Polaris",
+  "constellation": "Ursa Minor",
+  "right_ascension": "02h 31m 49.1s",
+  "declination": "+89° 15' 50",
+  "apparent_magnitude": "1.98",
+  "absolute_magnitude": "-3.64",
+  "distance_light_years": "433 anos-luz",
+  "spectral_class": "F7 I"
+},
+{
+  "nome": "Aldebaran",
+  "constellation": "Taurus",
+  "right_ascension": "04h 35m 55.2s",
+  "declination": "+16° 30' 33",
+  "apparent_magnitude": "0.87",
+  "absolute_magnitude": "-0.55",
+  "distance_light_years": "65.2 anos-luz",
+  "spectral_class": "K5 III"
+},
+{
+  "nome": "Capella",
+  "constellation": "Auriga",
+  "right_ascension": "05h 16m 41.4s",
+  "declination": "+45° 59' 52",
+  "apparent_magnitude": "0.08",
+  "absolute_magnitude": "-0.43",
+  "distance_light_years": "42.2 anos-luz",
+  "spectral_class": "G8 III + G0 III (sistema binário"
+},
+{
+  "nome": "Deneb",
+  "constellation": "Cisne",
+  "right_ascension": "20h 41m 25.9s",
+  "declination": "+45° 16′ 49",
+  "apparent_magnitude": "1.25",
+  "absolute_magnitude": "−8.38",
+  "distance_light_years": "1.425 anos-luz",
+  "spectral_class": " A2Ia"
+},
+{
+  "nome": "Formalhaut",
+  "constellation": "Peixes",
+  "right_ascension": "22h 57m 39.05s",
+  "declination": "-29° 37′ 20.3",
+  "apparent_magnitude": "1.16",
+  "absolute_magnitude": "1.8",
+  "distance_light_years": "25 anos-luz",
+  "spectral_class": "A3V"
+},
+{
+"nome": "Bellatrix",
+"constellation": "Orion",
+"right_ascension": "05h 25m 07.5s",
+"declination": "+06° 20′ 58",
+"apparent_magnitude": "1.64",
+"absolute_magnitude": "-3.9",
+"distance_light_years": "240 anos-luz",
+"spectral_class": "B2III"
+}
+]
